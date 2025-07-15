@@ -21,3 +21,26 @@ Tools Used
 Python Libraries: pandas, seaborn, matplotlib, scikit-learn
 Excel: Used for visual validation (scatter plots, trendlines, and formula-based predictions)
 
+
+KNN Regressor Assignment
+
+iPhone Purchase Prediction
+Use Case: Predict if a customer will purchase an iPhone based on Gender, Age, and Salary.
+Tools: Python, pandas, seaborn, scikit-learn (Logistic Regression)
+
+Insights:
+Age (25–40) and higher Salary increase purchase likelihood
+Gender has minor influence
+Helps target high-potential buyers for marketing
+
+Bangalore House Price Prediction
+Use Case: Predict house prices in Bangalore using features like sqft, BHK, bathrooms, and location.
+Tools: Python, pandas, seaborn, scikit-learn (Linear Regression)
+
+Insights:
+Sqft and Location are key price drivers
+Outlier handling and one-hot encoding improved accuracy
+Useful for real estate pricing and filtering property recommendations
+
+
+
